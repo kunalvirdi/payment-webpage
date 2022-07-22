@@ -1,0 +1,5 @@
+export {default as paypal} from './Logo/paypal (1).png'
+export {default as visa } from './Logo/visa.png'
+export {default as mastercard} from './Logo/mastercard.png'
+export {default as m} from './Logo/m.png'
+export {default as discover} from './Logo/discover.png'
